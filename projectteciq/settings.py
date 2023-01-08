@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-841g6is0t2d*sl*712r%i0$^$^2$hl8b+^1u#ez*hkd=@^4vi#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['teciq.onrender.com']
+ALLOWED_HOSTS = ['teciq.onrender.com','www.teciq.in']
 
 
 # Application definition
